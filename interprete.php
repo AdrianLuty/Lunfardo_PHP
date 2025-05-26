@@ -1,4 +1,8 @@
 <?php
+/*
+Implenentación desde bash.
+php interprete.php ejemplo.lunf
+*/
 
 $acumulador = 0;
 
